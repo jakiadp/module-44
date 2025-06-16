@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Gye Alpha",
+    "type": "Standard",
+    "price": "$49.99/month",
+    "description": "This is the first gye, simple and elegant.",
+    "features": ["Lightweight", "Compact Design", "Energy Efficient"]
+  },
+  {
+    "id": 2,
+    "name": "Gye Beta",
+    "type": "Premium",
+    "price": "$29.99/month",
+    "description": "Premium gye with enhanced features.",
+    "features": ["High Performance", "Water Resistant", "Durable Build"]
+  },
+  {
+    "id": 3,
+    "name": "Gye Gamma",
+    "type": "Deluxe",
+    "price": "$60.99/month",
+    "description": "Deluxe gye with full specifications.",
+    "features": ["Touch Control", "Long Battery Life", "Fast Charging"]
+  }
+]
